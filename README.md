@@ -9,7 +9,7 @@ The three classes used for the program have the following properties.
 ![](Figures/Capture.PNG)
 
 1) The decision boundaries for both the Maximum Likelihood (ML) and Maximum A Posteriori (MAP) classifier were determined and plotted alongside the means and first standard deviation contours.
-![](Figures/Q2parta_NEW1.png)
+![](Figures/Q2parta_NEW1.png)  
 (a) (b)  
 Decision boundaries for each class of dataset for (a) ML and (b) MAP classifer
 
