@@ -10,7 +10,8 @@ The three classes used for the program have the following properties.
 
 1) The decision boundaries for both the Maximum Likelihood (ML) and Maximum A Posteriori (MAP) classifier were determined and plotted alongside the means and first standard deviation contours.
 ![](Figures/Q2parta_NEW1.png)
-(a) (b)
+(a) (b)\
+
 Decision boundaries for each class of dataset for (a) ML and (b) MAP classifer
 
 Using the prior probabilities of each class, a dataset of a total of 3000 data points was generated with N_(Class 1)=600,N_(Class 2)=2100,N_(Class 3)=300. The dataset was classified using the ML and MAP methods of part a and the resulting confusion matrices are shown in Figure 4.
