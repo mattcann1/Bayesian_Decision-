@@ -14,4 +14,4 @@ The three classes used for the program have the following properties.
 Using the prior probabilities of each class, a dataset of a total of 3000 data points was generated with N_(Class 1)=600,N_(Class 2)=2100,N_(Class 3)=300. The dataset was classified using the ML and MAP methods of part a and the resulting confusion matrices are shown in Figure 4.
 ![](Figures/heatmap_1.png)    ![](Figures/heatmap_2.png)
 
-
+The experimental error of the two classifiers is 8.7% and 6.4% for ML and MAP classifiers, respectively. The MAP experimental error is improved because of the consideration of the priors in the classification. Although some classes were misclassified more, such as class 3 being labelled as class 1, the experimental error weighs misclassifications alongside the prior value. Since MAP classifier takes into consideration the priors, the misclassification of the largest priors is decreased which is demonstrated by the decrease of misclassifications in class 2 values. 
